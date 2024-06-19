@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel Test Suite" parallel="tests" thread-count="2">
+    <test name="Parallel Test Classes">
+        <parameter name="browser" value="chrome"></parameter>
+        <parameter name="version" value="125"></parameter>
+        <parameter name="hubAddress" value="http://shubraj-22024452H:4444"></parameter>
+        <parameter name="platform" value="Windows"></parameter>
+        <classes>
+            <class name="testcases.Test_HomePage"/>
+        </classes>
+    </test>
+    <test name="Parallel Test Classes2">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="version" value="125"></parameter>
+        <parameter name="hubAddress" value="http://shubraj-22024452H:4444"></parameter>
+        <parameter name="platform" value="Windows"></parameter>
+        <classes>
+            <class name="testcases.Test_OnlineCatalogPage"/>
+        </classes>
+    </test>
+</suite>

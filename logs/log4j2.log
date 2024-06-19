@@ -1,0 +1,65 @@
+[INFO ] 2024-06-19 13:38:52.480 [main] Utils - [TestNG] Running:
+  C:\Users\Shubham Raj\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO ] 2024-06-19 13:41:06.014 [main] Utils - [TestNG] Running:
+  C:\Users\Shubham Raj\Desktop\new_training\GMO_E2E_Automation_2024\testng_corssBrowserParallelTesting.xml
+
+[INFO ] 2024-06-19 13:41:22.778 [TestNG-tests-2] MessageLogger - (BrowserListener)Navigated to : https://demo.borland.com/gmopost/
+[INFO ] 2024-06-19 13:41:22.787 [TestNG-tests-2] MessageLogger - (BrowserListener)Page title : Welcome to Green Mountain Outpost
+[INFO ] 2024-06-19 13:41:22.882 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : Enter GMO OnLine
+[INFO ] 2024-06-19 13:41:23.283 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:41:23.618 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [4]intoQTY_TENTS
+[INFO ] 2024-06-19 13:41:23.646 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:41:23.980 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [2]intoQTY_BACKPACKS
+[INFO ] 2024-06-19 13:41:24.002 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:41:24.284 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [1]intoQTY_GLASSES
+[INFO ] 2024-06-19 13:41:24.326 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : Place An Order
+[INFO ] 2024-06-19 13:41:26.056 [TestNG-tests-2] MessageLogger - (BrowserListener)Browser Closed : class org.openqa.selenium.firefox.FirefoxDriver
+[WARN ] 2024-06-19 13:41:26.057 [TestNG-tests-2] MessageLogger - Driver not quit properly
+[INFO ] 2024-06-19 13:52:34.518 [main] Utils - [TestNG] Running:
+  C:\Users\Shubham Raj\Desktop\new_training\GMO_E2E_Automation_2024\testng.xml
+
+[INFO ] 2024-06-19 13:56:05.537 [main] Utils - [TestNG] Running:
+  C:\Users\Shubham Raj\Desktop\new_training\GMO_E2E_Automation_2024\testng.xml
+
+[INFO ] 2024-06-19 13:56:08.488 [TestNG-tests-1] MessageLogger - (BrowserListener)Navigated to : https://demo.borland.com/gmopost/
+[INFO ] 2024-06-19 13:56:13.142 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : Enter GMO OnLine
+[INFO ] 2024-06-19 13:56:13.415 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:13.569 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [4]intoQTY_TENTS
+[INFO ] 2024-06-19 13:56:13.600 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:13.724 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [2]intoQTY_BACKPACKS
+[INFO ] 2024-06-19 13:56:13.750 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:13.865 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [1]intoQTY_GLASSES
+[INFO ] 2024-06-19 13:56:13.912 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : Place An Order
+[INFO ] 2024-06-19 13:56:14.333 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : Proceed With Order
+[INFO ] 2024-06-19 13:56:14.698 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [test2]intobillName
+[INFO ] 2024-06-19 13:56:14.757 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [Add1]intobillAddress
+[INFO ] 2024-06-19 13:56:14.838 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [C1]intobillCity
+[INFO ] 2024-06-19 13:56:14.903 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [S1]intobillState
+[INFO ] 2024-06-19 13:56:14.962 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [54321]intobillZipCode
+[INFO ] 2024-06-19 13:56:15.030 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [1234567899]intobillPhone
+[INFO ] 2024-06-19 13:56:15.082 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [a@a.com]intobillEmail
+[INFO ] 2024-06-19 13:56:15.105 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : AMEX
+[INFO ] 2024-06-19 13:56:15.323 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : MasterCard
+[INFO ] 2024-06-19 13:56:15.435 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [1234432112344320]intoCardNumber
+[INFO ] 2024-06-19 13:56:15.504 [TestNG-tests-1] MessageLogger - (BrowserListener)Entered data : [10/25]intoCardDate
+[INFO ] 2024-06-19 13:56:15.529 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : OFF
+[INFO ] 2024-06-19 13:56:15.598 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : Place The Order
+[INFO ] 2024-06-19 13:56:15.906 [TestNG-tests-1] MessageLogger - (BrowserListener)clicking : Return to Home Page
+[INFO ] 2024-06-19 13:56:16.219 [TestNG-tests-1] MessageLogger - (BrowserListener)Browser Closed : class org.openqa.selenium.chrome.ChromeDriver
+[WARN ] 2024-06-19 13:56:16.219 [TestNG-tests-1] MessageLogger - Driver not quit properly
+[INFO ] 2024-06-19 13:56:19.826 [TestNG-tests-2] MessageLogger - (BrowserListener)Navigated to : https://demo.borland.com/gmopost/
+[INFO ] 2024-06-19 13:56:19.833 [TestNG-tests-2] MessageLogger - (BrowserListener)Page title : Welcome to Green Mountain Outpost
+[INFO ] 2024-06-19 13:56:19.871 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : Enter GMO OnLine
+[INFO ] 2024-06-19 13:56:20.240 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:20.553 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [4]intoQTY_TENTS
+[INFO ] 2024-06-19 13:56:20.569 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:20.849 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [2]intoQTY_BACKPACKS
+[INFO ] 2024-06-19 13:56:20.867 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : 0
+[INFO ] 2024-06-19 13:56:21.163 [TestNG-tests-2] MessageLogger - (BrowserListener)Entered data : [1]intoQTY_GLASSES
+[INFO ] 2024-06-19 13:56:21.204 [TestNG-tests-2] MessageLogger - (BrowserListener)clicking : Place An Order
+[INFO ] 2024-06-19 13:56:22.353 [TestNG-tests-2] MessageLogger - (BrowserListener)Browser Closed : class org.openqa.selenium.firefox.FirefoxDriver
+[WARN ] 2024-06-19 13:56:22.354 [TestNG-tests-2] MessageLogger - Driver not quit properly
+[INFO ] 2024-06-19 13:56:32.176 [main] Utils - [TestNG] Running:
+  C:\Users\Shubham Raj\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
